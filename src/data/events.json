@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Tech Conference 2024",
-      "date": "2024-06-15",
+      "date": "2025-06-15",
       "time": "09:00 AM",
       "location": "Jinnah Convention Center, Islamabad",
       "description": "Join us for a day of innovation and networking with industry leaders.",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "name": "Startup Pitch Night",
-      "date": "2024-06-25",
+      "date": "2025-06-25",
       "time": "06:00 PM",
       "location": "Rawalpindi Chamber of Commerce, Rawalpindi",
       "description": "Watch promising startups pitch their ideas to investors.",
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "name": "Art Exhibition",
-      "date": "2024-07-10",
+      "date": "2025-07-10",
       "time": "10:00 AM",
       "location": "Pakistan National Council of the Arts, Islamabad",
       "description": "Contemporary art showcase featuring emerging artists.",
@@ -30,7 +30,7 @@
     {
       "id": 4,
       "name": "Food Expo",
-      "date": "2024-08-05",
+      "date": "2025-08-05",
       "time": "11:00 AM",
       "location": "Ayub National Park, Rawalpindi",
       "description": "Sample cuisine and beverages from renowned chefs and wineries.",
@@ -39,7 +39,7 @@
     {
       "id": 5,
       "name": "Tech Expo",
-      "date": "2024-07-20",
+      "date": "2025-07-20",
       "time": "02:00 PM",
       "location": "Dynamic360 Gulberg Greens,Islamabad ",
       "description": "A three-day celebration of music featuring top artists from around the world.",
