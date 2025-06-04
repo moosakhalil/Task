@@ -22,8 +22,8 @@ const Contact = ({ darkMode }) => {
                   <h3 className="mb-3 fw-bold">
                     Muhammad Moosa Khalil
                   </h3>
-                  <p className="mb-2"><strong>Email:</strong> <a href="mailto:moosakhalil@gmail.com" className={darkMode ? 'text-info' : 'text-primary'}>moosakhalil@gmail.com</a></p>
-                  <p className="mb-2"><strong>Phone:</strong> <a href="tel:+923001234567" className={darkMode ? 'text-info' : 'text-primary'}>+92 300 1234567</a></p>
+                  <p className="mb-2"><strong>Email:</strong> <a href="mailto:moosamughal21@gmail.com" className={darkMode ? 'text-info' : 'text-primary'}>moosamughal21@gmail.com</a></p>
+                  <p className="mb-2"><strong>Phone:</strong> <a href="tel:+923312674909" className={darkMode ? 'text-info' : 'text-primary'}>0331 2674909</a></p>
                   <p className="mb-2"><strong>Address:</strong> Karachi, Pakistan</p>
                   <div className="mt-4 d-flex align-items-center gap-3">
                     <a href="https://www.linkedin.com/in/muhammad-moosa-khalil-9a3569306/" target="_blank" rel="noopener noreferrer" className={darkMode ? 'text-info d-flex align-items-center' : 'text-primary d-flex align-items-center'} style={{ textDecoration: 'none', fontWeight: 500 }}>
@@ -45,4 +45,4 @@ const Contact = ({ darkMode }) => {
   );
 };
 
-export default Contact; 
+export default Contact;
